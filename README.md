@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [宝哥陪伴群](https://weixin.qdkfweb.cn/41177.html)
 - [用 JS 揭秘刘谦春晚魔术的魅力！](https://weixin.qdkfweb.cn/41151.html)
 - [今天面试了一个前端女生，当场想给她offer！](https://weixin.qdkfweb.cn/41106.html)
 - [12个冷门但好用的前端工具推荐](https://weixin.qdkfweb.cn/41107.html)
@@ -16,7 +17,6 @@
 - [建议你：布局2024年这些Web框架](https://weixin.qdkfweb.cn/40928.html)
 - [我的前端工程化宝典，分享给你](https://weixin.qdkfweb.cn/40882.html)
 - [前端行情变了，差别真的挺大。。。](https://weixin.qdkfweb.cn/40883.html)
-- [总结下最近的几场大厂前端实习面试](https://weixin.qdkfweb.cn/40884.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
