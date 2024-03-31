@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/41885.html)
 - [手把手教你写出令人窒息的烂代码](https://weixin.qdkfweb.cn/41886.html)
 - [面试官：前端请求如何避免明文传输？谁沉默了，原来是我](https://weixin.qdkfweb.cn/41834.html)
@@ -16,7 +17,6 @@
 - [还在用原始方法开发？这 16 个谷歌浏览器插件让你事半功倍！](https://weixin.qdkfweb.cn/41689.html)
 - [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
 - [探索Rolldown：Vite的未来打包利器](https://weixin.qdkfweb.cn/41887.html)
-- [真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/41578.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
