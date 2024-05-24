@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 中使用 &lt;transition&gt; 标签创建过渡动画的详细教程](https://weixin.qdkfweb.cn/48025.html)
+- [前端开发的秘密武器：10个免费HTML模板让你的网站无与伦比](https://weixin.qdkfweb.cn/48026.html)
 - [JavaScript框架又更新了！一文带你读懂React、Next.js、Vue、Nuxt和Svelte等框架的最新动态和趋势。](https://weixin.qdkfweb.cn/47763.html)
 - [前端开发者的宝藏：探索10个最佳免费HTML模板资源（第二弹）](https://weixin.qdkfweb.cn/47764.html)
 - [2024年10个高颜值的免费HTML模板库！](https://weixin.qdkfweb.cn/47765.html)
@@ -15,8 +17,6 @@
 - [强烈建议前端人学习AI大模型！](https://weixin.qdkfweb.cn/47633.html)
 - [一键生成代码截图的神器，让你的代码美如画！](https://weixin.qdkfweb.cn/47634.html)
 - [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
-- [炸裂开源！标星 17k 的安卓手机模拟器，无需 root，支持 Windows、Mac 和 Linux！](https://weixin.qdkfweb.cn/47432.html)
-- [这可能是我见过最好最全的Javascript题库！](https://weixin.qdkfweb.cn/47433.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
