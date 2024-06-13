@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuxt 4：一个更加完善、更加强大的 Vue 全栈框架](https://weixin.qdkfweb.cn/49317.html)
 - [尤雨溪又出新品了！VuePress 的升级版，更快、更灵活，构建更强大的网站！](https://weixin.qdkfweb.cn/49242.html)
 - [微软 Edge 推出 &quot;WebUI 2.0&quot;：从 React 到 Web Components + HTML，速度提升了42%](https://weixin.qdkfweb.cn/49243.html)
 - [掌握插槽魔法，助你进阶 Vue 开发，赋予组件无限可能！](https://weixin.qdkfweb.cn/49188.html)
 - [怎么才能做出一个牛逼的Vue 组件库？](https://weixin.qdkfweb.cn/49073.html)
-- [别再用错 localStorage 了！小心踩坑！](https://weixin.qdkfweb.cn/49083.html)
 - [再见了 Vue 3，前端AI已成气候！](https://weixin.qdkfweb.cn/49079.html)
+- [别再用错 localStorage 了！小心踩坑！](https://weixin.qdkfweb.cn/49083.html)
 - [Vite 为什么这么火？](https://weixin.qdkfweb.cn/49088.html)
 - [2024已过半，Web前端还有机会吗?](https://weixin.qdkfweb.cn/49092.html)
 - [最新 Vue 生态系统及工具链大盘点](https://weixin.qdkfweb.cn/49096.html)
-- [Vue 神器，支持自动生成路由，从此告别繁琐的手动路由配置！](https://weixin.qdkfweb.cn/49100.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
