@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [多图教程带你轻松学习 CSS Flexbox 布局](https://weixin.qdkfweb.cn/54447.html)
 - [2024 年 Web 开发者必备的 30 款 CSS 工具](https://weixin.qdkfweb.cn/54402.html)
 - [手把手教你用 Vue.js 和 WebSocket 构建聊天应用](https://weixin.qdkfweb.cn/54250.html)
 - [一文搞懂 HTTP 请求：GET、POST、PUT、DELETE 全解析](https://weixin.qdkfweb.cn/54251.html)
@@ -16,7 +17,6 @@
 - [JavaScript 速查表：Web 开发者必备宝典](https://weixin.qdkfweb.cn/53644.html)
 - [前端开发者必备！8 款神器，助你效率提升 10 倍！](https://weixin.qdkfweb.cn/53645.html)
 - [今年这情况，大家还是多一手准备吧！](https://weixin.qdkfweb.cn/53554.html)
-- [我的 VS Code 配置：插件、主题、快捷键一网打尽！](https://weixin.qdkfweb.cn/53555.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
