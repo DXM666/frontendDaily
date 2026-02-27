@@ -22,8 +22,8 @@
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15205](https://github.com/anomalyco/opencode/pull/15205) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. 💪 Opened PR [#1](https://github.com/DXM666/multiple-main/pull/1) in [DXM666/multiple-main](https://github.com/DXM666/multiple-main)
+1. 🗣 Commented on [#15205](https://github.com/anomalyco/opencode/pull/15205#issuecomment-3971784369) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 💪 Opened PR [#15205](https://github.com/anomalyco/opencode/pull/15205) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 3. 🎉 Merged PR [#1](https://github.com/DXM666/multiple-packages/pull/1) in [DXM666/multiple-packages](https://github.com/DXM666/multiple-packages)
 4. 💪 Opened PR [#1](https://github.com/DXM666/multiple-packages/pull/1) in [DXM666/multiple-packages](https://github.com/DXM666/multiple-packages)
 5. ❗ Opened issue [#2725](https://github.com/kujian/githubTrending/issues/2725) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
